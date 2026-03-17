@@ -57,12 +57,5 @@ Data Analyst in Training | Career247 Data Analytics Course
 #DataAnalytics #Python #Statistics #BusinessIntelligence
 
 
-**Your repo link**: `https://github.com/tushar27012001-hub/customer-insights-statistical-investigation`
+**Repo link**: `https://github.com/tushar27012001-hub/customer-insights-statistical-investigation`
 
-## 🚀 Run Locally
-```bash
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scipy statsmodels
-
-# Launch notebook
-jupyter notebook "Unlocking_Customer_Insights_A_Statistical_Investigation.ipynb"
