@@ -57,12 +57,6 @@ Data Analyst in Training | Career247 Data Analytics Course
 #DataAnalytics #Python #Statistics #BusinessIntelligence
 
 
-## ✅ Instructions:
-1. **Delete everything** in the white box[1]
-2. **Paste above content** 
-3. **"Commit new file"** (green button bottom)
-4. **Repo 100% ready** for LinkedIn!
-
 **Your repo link**: `https://github.com/tushar27012001-hub/customer-insights-statistical-investigation`
 
 ## 🚀 Run Locally
