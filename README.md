@@ -28,14 +28,6 @@ Python: Pandas, NumPy, Matplotlib, Seaborn
 Statistics: SciPy (T-test), Statsmodels (ANOVA)
 Data: 12 features × 10,675 records
 
-## 📈 Visualizations
-| **KDE Plots** (Spend by Education/Marital) | **Business Insights** |
-|--------------------------------------------|----------------------|
-| ![KDE Plots](KDE-PLOTS.jpg) | ![Business Insights](BUSINESS-IN-SG9HTS.jpg) |
-
-| **Histograms & Boxplots** | **Correlation Heatmap** |
-|---------------------------|-------------------------|
-| ![Histograms](HISTOGRAMS-AND-BOXPLOTS.jpg) | ![Heatmap](HEATMAP.jpg) |
 
 💼 Skills Demonstrated
 Exploratory Data Analysis (EDA)
@@ -49,6 +41,7 @@ Data Visualization
 Python Data Science
 
 Business Recommendations
+
 
 
 📁 Files Included
